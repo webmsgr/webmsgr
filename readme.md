@@ -11,5 +11,5 @@ I Somewhat Know (I can write stuff, but not good)
 - Javascript
 - HTML
 - CSS
-- C
+- C#
 
