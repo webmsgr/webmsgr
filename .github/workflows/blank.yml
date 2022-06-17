@@ -26,6 +26,7 @@ jobs:
           token: ${{ secrets.METKEY }}
           base: header, metadata
           plugin_languages: yes
+          repositories_skipped: ${{ secrets.SECRETREPOS }}
           plugin_isocalendar: yes
           plugin_lines: yes
           
