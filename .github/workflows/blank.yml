@@ -22,7 +22,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: lowlighter/metrics@latest
         with:
-          #template: terminal
+          template: terminal
           filename: metrics.svg
           token: ${{ secrets.METKEY }}
           base: header, metadata
@@ -30,7 +30,7 @@ jobs:
           repositories_skipped: ${{ secrets.SECRETREPOS }}
           plugin_isocalendar: yes
           plugin_lines: yes
-          plugin_habits: yes
-          plugin_achievements: yes
+          #plugin_habits: yes
+          #plugin_achievements: yes
           
           
