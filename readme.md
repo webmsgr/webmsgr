@@ -8,3 +8,4 @@ I know
 - HTML/Typescript/Javascript/CSS
 - C#
 
+![Metrics](/metrics.svg)
