@@ -5,11 +5,6 @@ I do coding things
 
 I know 
 - Python
-
-I Somewhat Know (I can write stuff, but not good)
-- V
-- Javascript
-- HTML
-- CSS
+- HTML/Typescript/Javascript/CSS
 - C#
 
